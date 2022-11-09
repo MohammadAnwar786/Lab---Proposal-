@@ -2,37 +2,44 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+- "Now What"
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+- I am planning to create a mini game, such as hangman. If I choose to go the hangman route it will be similar to a game like wordle.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+- The program will randomly generate a word and ask for the user to begin to guess the word. The world may be between 2 to 7 characters (more or less dependiing on my decision during the process. If the user guesses incorrectly I would hope to be able to have the program give an output such as "this letter is not in the word". I am hopefull in being able to add a "lives" type of concept meaning if the user guesses the letter incorrectly 3 times, they lose the game.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
-TODO, if applicable
+- Not applicable
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-TODO, if applicable
+- Taha Anwar, tul26954@temple.edu, TA's: Zhengkang Fan & Xinwen Zhang
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+- Program be able to pick a random word
+- Program ask the user to input a letter to guess the word
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+- Program be able to pick a random word
+- Program ask the user to input a letter to guess the word
+- A life system which makes it so that the user has a limited amout of incorrect answers
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+- Program be able to pick a random word
+- Program ask the user to input a letter to guess the word
+- A life system which makes it so that the user has a limited amout of incorrect answers
+
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
+- My next steps will be to learn how to code a program that can choose a word at random. I need to know how to give the program a selection of words to choose from. The hardest part that I see happening it programming a way to incorporate a life system. I am not sure how we are gonna do this so I will have to do some research. BOth me and my partner will do all steps together because this is a bit challlenging and we both will need to do some research before starting.
